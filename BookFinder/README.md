@@ -1,5 +1,7 @@
 # Clone the repository:
 git clone https://github.com/Ganeshkv002/BookFinder
+
+# Move to BookFinder folder
 cd BookFinder/BookFinder
 
 
