@@ -1,6 +1,7 @@
 # Clone the repository:
 git clone https://github.com/Ganeshkv002/BookFinder
-cd BookFinder
+cd BookFinder/BookFinder
+
 
 # Install dependencies:
 npm install
