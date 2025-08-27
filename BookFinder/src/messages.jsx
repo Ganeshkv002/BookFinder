@@ -1,0 +1,2 @@
+export const NO_RESULTS_FOUND = 'We couldn’t find any books matching your search. Please try a different title, author, or keyword.'
+export const API_ERROR = "We’re having trouble fetching the books right now. Please check your connection or try again later."
