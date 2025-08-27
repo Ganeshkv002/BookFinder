@@ -70,7 +70,7 @@ function SearchBook() {
                 ) : (
                   <div>
                     <img
-                      src="emptyBookIcon/empty.jpg"
+                      src="/fallBackImage.jpg"
                       alt="Image not available"
                       className="fallback-img"
                     />
